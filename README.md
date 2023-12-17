@@ -1,1 +1,4 @@
-This repository contains HackerRank challenges I have done
+### Used Technologies
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" height="30" width="30"></a>
+</div>
