@@ -1,8 +1,8 @@
 function processData(input) {
     //Enter your code here
     const processInput = input.split(' ')
-    const ratio = 1.09
-    const numPerBirth = 1
+    const ratio = parseFloat(processInput[0]);
+    const numPerBirth = parseFloat(processInput[1]);
     const n = 6
     const p = ratio / (1 + ratio)
     let totalResult = 0
