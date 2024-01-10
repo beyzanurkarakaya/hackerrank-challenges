@@ -4,8 +4,8 @@
 
 ### 2 - More Dice
 
-![1](./day2_more_dice.png)
+![2](./day2_more_dice.png)
 
 ### 3 - Compound Event Probability
 
-![1](./day2_compound_event_probability.png)
+![3](./day2_compound_event_probability.png)
